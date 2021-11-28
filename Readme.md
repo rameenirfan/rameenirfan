@@ -1,4 +1,4 @@
-<a href="#"><img width="50%" height="auto" src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/32982/business-woman-laptop-computer-clipart-md.png" height="175px"/></a>
+<a href="#" ><center><img width="30%" height="auto"  src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/32982/business-woman-laptop-computer-clipart-md.png" height="175px"/></center></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rameen Irfan</h1>
 <h3 align="center">A passionate Undegraduate Student</h3>
