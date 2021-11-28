@@ -49,7 +49,4 @@
 <a href="https://github.com/rameenirfan?tab=followers"><img src="https://img.shields.io/github/followers/rameenirfan?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/rameenirfan/count.svg" />
-</p>
+
