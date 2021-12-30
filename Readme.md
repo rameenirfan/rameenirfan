@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👷 Currently pursuing BSc in Computer Science(2019-2023) from **Usman Institure of Technology**.
+- 👷 Currently pursuing BSc in Computer Science(2019-2023) from **Usman Institute of Technology**.
 - 💼 I'm currently working as traniee at **[Micro Electronics Research Lab (MERL-UIT)](https://github.com/merledu).**
 - 🌱 I’m currently learning **Functional Programming in Scala.**
 
